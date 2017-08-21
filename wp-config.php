@@ -23,7 +23,7 @@
 define('DB_NAME', 'hpadev04');
 
 /** MySQL database username */
-define('DB_USER', 'hpamysqladmin');
+define('DB_USER', 'hpamysqladmin@hpa-wordpress');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'H1ghl@nd123!');
